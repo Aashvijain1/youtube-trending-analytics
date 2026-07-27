@@ -12,17 +12,12 @@ A business analytics + data analytics case study examining how YouTube's trendin
 - Local Irish content can still break through despite this pattern (e.g. Kingfishr, a CMAT collaboration both reached Ireland's top-10 longest-trending videos).
 
 ## Repository structure
-├── notebook/
-│ └── youtube_trending_analysis.ipynb # Full analysis: EDA, modeling, exports
-├── dashboard/
-│ └── youtube_dashboard.pbix # Interactive Power BI dashboard (3 pages)
-├── data/
-│ └── (exported CSVs used by the dashboard)
-├── report/
-│ ├── executive_summary.docx
-│ └── full_analytical_report.docx
-└── README.md
 
+- `notebook/` — youtube_trending_analysis.ipynb (full analysis: EDA, modeling, exports)
+- `dashboard/` — youtube_dashboard.pbix (interactive Power BI dashboard, 3 pages)
+- `data/` — exported CSVs used by the dashboard
+- `report/` — executive_summary.docx, full_analytical_report.docx
+- `README.md`
 
 ## Methodology
 
