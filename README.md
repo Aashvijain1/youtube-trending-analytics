@@ -39,6 +39,7 @@ A business analytics + data analytics case study examining how YouTube's trendin
 - Content categories are keyword-based, not from YouTube's own taxonomy — ~45% of videos fall into an "Other" bucket.
 - `peak_views`/`peak_likes` are partly a consequence of `days_trending`, so some model accuracy reflects this relationship rather than a purely independent early-warning signal.
 - Figures reflect a rolling 90-day window as of the most recent data pull and will shift slightly if re-run later, since the source dataset updates daily.
+-  Ireland's population is ~20-23% foreign-born (CSO Census 2022; Eurostat 2025), with major communities from Poland, the UK, India, Romania, and Brazil. Several of Ireland's longest-trending videos in this dataset were non-English/non-US-UK content (Korean, Russian, Romanian-language music), suggesting demographic diversity may partly explain the pattern found in this analysis — a direction for future work rather than something tested directly here.
 
 ## Dashboard
 
